@@ -1,0 +1,36 @@
+.text input{
+  margin-right: 20px;
+}
+.sorting label{
+  display: block;
+}
+.item{
+  margin: 10px 10px;
+  height: 300px;
+  width: 220px;
+  padding: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+  background-color:#fff;
+}
+.item img{
+  width: 190px;
+}
+.price{    
+  text-align: center;
+  padding: 10px;
+  background-color:#e5e5e5;
+  color:#000;
+}
+.pages .button{
+  margin: 50px 5px;
+  width:40px;
+}
+.pages .selected{
+   background-color:#fff;
+   color: #000;
+}
+
+.item:hover{
+  transform: scale(1.02, 1.02);
+}
+

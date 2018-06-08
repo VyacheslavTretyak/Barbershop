@@ -1,0 +1,23 @@
+body{  
+  font-size: 14px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #000;
+  background-color: #faf7f4;
+}
+.section{
+  margin: 50px 0;
+}
+.title{
+  font-size: 200%;
+  font-weight: bold;
+}
+.text{
+  font-size: 120%; 
+  font-weight: bold;
+}
+.text i{
+  margin: 0 20px;  
+}
+.current{
+  color: #aaa;
+}

@@ -1,0 +1,26 @@
+.slogan .title{
+  font-size: 45px;
+}
+.line{
+  margin: 35px 20px;
+  width: 200px;
+  height: 1px;
+  border: 1px solid #000;
+}
+.descript ul, table{
+  margin: 50px 0;
+}
+.descript li{
+  margin-top: 25px;
+}
+.descript .title{
+  margin-bottom: 30px;
+}
+td{
+  width: 300px;
+  padding: 10px 20px;
+  border: 2px solid #000;
+}
+.price{
+  text-align: center;
+}
